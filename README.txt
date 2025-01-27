@@ -23,8 +23,12 @@ To view the CV, simply visit the following link after uploading this repository 
 
 ## Contact
 
-- Email: [oussamaargane92@gmail.com](mailto:oussamaargane92@gmail.com)
-- GitHub: [https://github.com/DeveloperSami501](https://github.com/DeveloperSami501)
-- Roadmap.sh: [https://roadmap.sh/u/samidev](https://roadmap.sh/u/samidev)
+- Email: oussamaargane92@gmail.com
+- GitHub: https://github.com/DeveloperSami501
+- Roadmap.sh: https://roadmap.sh/u/samidev
+
+##Project URL:
+
+https://github.com/DeveloperSami501/Single-Page-CV.git
 
 Feel free to reach out to me via email or visit my profiles for more information.
