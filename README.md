@@ -13,6 +13,8 @@ git clone https://github.com/DeveloperSami501/Single-Page-CV.git
 - Displays contact information, education, experience, and skills.
 - Simple and clean layout with basic HTML structure.
 
+## project URL:
+https://roadmap.sh/projects/single-page-cv
 
 
 
